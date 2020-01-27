@@ -9,5 +9,5 @@ Programado por: Carolina Morales
 Escuela Colombiana de Ingeniería
 
 #### Documentación
-Para consultar la documentación [haga clic aquí](http://htmlpreview.github.io/?https://github.com/CarolinaMorales1234/Operaciones-n-meros-complejos/blob/master/file:///C:/Users/carol/Documents/CNYT/numerosComplejos.html
+Para consultar la documentación [haga clic aquí](http://htmlpreview.github.io/?https://github.com/CarolinaMorales1234/Operaciones-n-meros-complejos/blob/master/Documents/CNYT/numerosComplejos.html
 
